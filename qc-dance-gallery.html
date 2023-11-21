@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head onload="load()">
+    <title>Lauren Martin's Portfolio</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/stylesheet_home.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <script src="js/functions.js"></script>
+</head>
+<body>
+<!-- SECTION: Splashscreen -->
+<div class="splashscreen">
+    <div class="preloader">
+        <span class="preloader_text">Loading</span>
+    </div>
+</div>
+<!-- END SECTION: Splashscreen -->
+
+<!-- SECTION: Intro -->
+<header class="header">
+    <!-- SECTION: Navigation -->
+    <div id="top" class="container">
+        <nav class="navbar">
+            <a href="index.html" class="nav-branding">LM</a>
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="index.html" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="about.html" class="nav-link">About</a>
+                </li>
+                <li class="nav-item">
+                    <a href="portfolio.html" class="nav-link">Portfolio</a>
+                </li>
+                <li class="nav-item">
+                    <a href="certifications.html" class="nav-link">Certifications</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#contact" class="nav-link">Contact</a>
+                </li>
+            </ul>
+            <div class="hamburger" onclick="navigation()">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </nav>
+    </div>
+    <!-- END SECTION: Navigation -->
+    <div class="introduction">
+        <h1 class="introduction_content-wrapper">
+            <span class="introduction_content introduction_content-name">Lauren Martin</span>
+            <span class="introduction_content introduction_content-description">Web Development</span>
+            <span class="introduction_content introduction_content-job">Professional</span>
+        </h1>
+        <svg class="introduction_arrow" xmlns="http://www.w3.org/2000/svg" version="1.1" id="Layer_1" x="0" y="0" viewBox="0 0 130 65" xml:space="preserve" enable-background="new 0 0 130 65"><g transform="translate(0.000000,65.000000) scale(0.100000,-0.100000)"><path d="M22.2 634c-50-35-40-47 293-349 174-157 323-285 333-285 24 0 635 552 647 585 8 23 6 30-14 46 -13 10-31 19-40 19s-57-37-107-83c-50-45-179-162-287-260l-197-179 -147 134c-319 289-433 388-446 388C50.2 650 34.2 643 22.2 634z"/></g></svg>
+    </div>
+</header>
+<!-- END SECTION: Intro -->
+<main>
+<section>
+    <p class="blurb__copy">This design is built on WordPress using the Divi theme. I designed each page myself and used CSS and HTML when needed for customizations not available through the theme options. This 24 page website took a lot of planning and customizations due to the need for registration pages, class schedules, and detailed booking questionnaire's. Please use the link below to view the full site which is hosted in a staging environment since I no longer manage their production environment. Please click the heading above any of the displayed gallery pages to see the pages full functionality.</p>
+    <a href="https://queencitydastg.wpengine.com/"><h3>View Full Queen City Dance Website</h3></a>
+</section>
+
+<!-- Grid -->
+<section class="gallery-container">
+
+    <div class="gallery-image">
+        <p class="gallery-description"><a href="https://queencitydastg.wpengine.com/">Homepage</a></p>
+        <img src="assets/qc_dance/qc-dance-homepage.png" alt="QC Dance Homepage" />
+    </div>
+    <div class="gallery-image">
+        <p class="gallery-description"><a href="https://queencitydastg.wpengine.com/about-us/">About Us Page</a></p>
+        <img src="assets/qc_dance/qc-dance-about-us-page.png" alt="QC Dance About Us Page">
+    </div>
+    <div class="gallery-image">
+        <p class="gallery-description"><a href="https://queencitydastg.wpengine.com/youth-dance-class/">Youth Dance Page</a></p>
+        <img src="assets/qc_dance/qc-dance-youth-dance.png" alt="QC Dance Youth Dance Page">
+    </div>
+    <div class="gallery-image">
+        <p class="gallery-description"><a href="https://queencitydastg.wpengine.com/class-attire/">Class Attire Page</a></p>
+        <img src="assets/qc_dance/qc-dance-class-attire-page.png" alt="QC Dance Class Attire Page">
+    </div>
+    <div class="gallery-image">
+        <p class="gallery-description"><a href="https://queencitydastg.wpengine.com/ballroom-dance-lessons/">Ballroom Dance Page</a></p>
+        <img src="assets/qc_dance/qc-dance-ballroom-dance-page.png" alt="QC Dance Ballroom Dance Page">
+    </div>
+    <div class="gallery-image">
+        <p class="gallery-description"><a href="https://queencitydastg.wpengine.com/competition-company/">Company Dance Page</a></p>
+        <img src="assets/qc_dance/qc-dance-company-page.png" alt="QC Dance Company Dance Page">
+    </div>
+    <div class="gallery-image">
+        <p class="gallery-description"><a href="https://queencitydastg.wpengine.com/summer-day-camp/">Summer Camp Page</a></p>
+        <img src="assets/qc_dance/qc-dance-summer-camp-page.png" alt="QC Dance Summer Camp Page">
+    </div>
+    <div class="gallery-image">
+        <p class="gallery-description"><a href="https://queencitydastg.wpengine.com/event-venue/">Weddings & Events Page</a></p>
+        <img src="assets/qc_dance/qc-dance-receptions-page.png" alt="QC Dance Wedding and Events Page">
+    </div>
+    <div class="gallery-image">
+        <p class="gallery-description"><a href="https://queencitydastg.wpengine.com/wedding-dance/">Wedding Dance Page</a></p>
+        <img src="assets/qc_dance/qc-dance-wedding-dance-page.png" alt="QC Dance Wedding Dance Page">
+    </div>
+    <div class="gallery-image">
+        <p class="gallery-description"><a href="https://queencitydastg.wpengine.com/wedding-events/">Wedding Event Venue Page</a></p>
+        <img src="assets/qc_dance/qc-dance-wedding-receptions-page.png" alt="QC Dance Wedding Event Venue Page">
+    </div>
+    <div class="gallery-image">
+        <p class="gallery-description"><a href="https://queencitydastg.wpengine.com/blog/">Blog Page</a></p>
+        <img src="assets/qc_dance/qc-dance-blog.png" alt="QC Dance Blog Page">
+    </div>
+    <div class="gallery-image">
+        <p class="gallery-description"><a href="https://queencitydastg.wpengine.com/blog/what-to-look-forward-to-in-the-2022-2023-dance-season/">Blog Post</a></p>
+        <img src="assets/qc_dance/qc-dance-blog-post.png" alt="QC Dance Blog Post">
+    </div>
+</section>
+    <!-- SECTION: Contact -->
+    <section id="contact" class="contact">
+        <h2 class="contact-heading title">Contact Me</h2>
+        <div class="contact_wrapper wrapper-large">
+            <div class="contact_visual">
+                <img src="assets/contact-visual.png" alt="Lauren Martin's location">
+            </div>
+            <!-- Simple form setup: formspree.io -->
+            <form class="contact__form">
+                <input class="contact_form contact_form-name" type="text" placeholder="Your Name" spellcheck="false">
+                <input class="contact_form contact_form-email" type="email" placeholder="Your Email" spellcheck="false">
+                <textarea class="contact_form contact_form-message" placeholder="Your Message"></textarea>
+                <input class="contact_form contact_form-submit" type="submit" value="Send">
+            </form>
+        </div>
+    </section>
+    <!-- END SECTION: Contact -->
+</main>
+<!-- SECTION: Footer -->
+<footer class="footer">
+    <div class="footer_wrapper wrapper-large">
+        <p class="footer_copyright no-margin">&copy; 2023 Lauren Martin</p>
+        <a class="footer_logo logo" href="index.html">LM</a>
+        <a class="footer_arrow" href="#top">
+            <svg class="footer_arrow-el" xmlns="http://www.w3.org/2000/svg" version="1.1" id="Layer_1" x="0" y="0" viewBox="0 0 130 65" xml:space="preserve" enable-background="new 0 0 130 65"><g transform="translate(0.000000,65.000000) scale(0.100000,-0.100000)"><path d="M315.4 365c-336-305-345-315-290-351 18-12 32-14 45-8 10 5 145 123 300 262l281 253 196-178c108-98 237-215 287-260 50-46 98-83 107-83s27 9 40 19c20 16 22 23 14 46 -12 33-623 585-647 585C638.4 650 489.4 522 315.4 365z"/></g></svg>
+        </a>
+    </div>
+</footer>
+<!-- END SECTION: Footer -->
+</body>
+</html>

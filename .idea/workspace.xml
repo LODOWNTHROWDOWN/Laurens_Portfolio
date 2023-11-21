@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf0891da-981f-4bbb-894c-d60ee2c3bd96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lauren_Portfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/about-visual.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/certifications/learn-angular-certificate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/certifications/learn-asynchronous-programming-certificate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/certifications/learn-intermediate-js-certificate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/certifications/learn-js-certificate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/certifications/learn-php-certificate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/certifications/learn-vue.js-certificate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/contact-visual.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/custom_plastic_forming/Custom-Plastic-Forming-Website.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/custom_plastic_forming/Custom-Plastic-Forming-homepage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-3d-printing-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-about-us-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-careers-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-design-engineering-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-equipment-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-heavy-gauge-thermoforming-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-in-house-capabilities-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-industries-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-logistics-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-materials-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-services-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-sustainability-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-thermoforming-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-thin-gauge-thermoforming-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-toolmaking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/qc_dance/qc-dance-about-us-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/qc_dance/qc-dance-ballroom-dance-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/qc_dance/qc-dance-blog-post.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/qc_dance/qc-dance-blog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/qc_dance/qc-dance-class-attire-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/qc_dance/qc-dance-company-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/qc_dance/qc-dance-homepage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/qc_dance/qc-dance-receptions-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/qc_dance/qc-dance-summer-camp-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/qc_dance/qc-dance-wedding-dance-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/qc_dance/qc-dance-wedding-receptions-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/qc_dance/qc-dance-youth-dance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/qc_dance/queen-city-dance-website.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/certifications.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/stylesheet_gallery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/stylesheet_home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custom-plastic-forming-gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qc-dance-gallery.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YSFb2EICIzFWwpTYzmph55eHSi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/laurenmartin/IdeaProjects/Lauren_Portfolio/assets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/qc_dance" />
+      <recent name="$PROJECT_DIR$/assets/custom_plastic_forming" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/certifications" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf0891da-981f-4bbb-894c-d60ee2c3bd96" name="Changes" comment="" />
+      <created>1700511144092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700511144092</updated>
+      <workItem from="1700511145202" duration="30796000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
