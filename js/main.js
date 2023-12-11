@@ -46,8 +46,7 @@ function getContact() {
                 <div class="contact_visual">
                     <img src="images/contact-visual.png" alt="Lauren Martin's location">
                 </div>
-                <!-- Simple form setup: formspree.io -->
-                <form class="contact-form" method="POST" action="php/sendmail.php">
+                <form class="contact-form" method="POST" action="../php/sendmail.php">
                     <input class="contact_form contact_form-name" type="text" name="text" placeholder="Your Name" spellcheck="false">
                     <input class="contact_form contact_form-email" type="email" name="email" placeholder="Your Email" spellcheck="false">
                     <textarea class="contact_form contact_form-message" name="message" placeholder="Your Message"></textarea>

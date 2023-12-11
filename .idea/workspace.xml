@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf0891da-981f-4bbb-894c-d60ee2c3bd96" name="Changes" comment="mobile styling update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/certifications.html" beforeDir="false" afterPath="$PROJECT_DIR$/certifications.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/certifications.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/certifications.css" afterDir="false" />
-    </list>
+    <list default="true" id="cf0891da-981f-4bbb-894c-d60ee2c3bd96" name="Changes" comment="CSS updates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,12 +58,16 @@
       <recent name="$PROJECT_DIR$/assets/certifications" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.main.js">
     <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Lauren_Portfolio/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/main.js" working-dir="$PROJECT_DIR$/js">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.main.js" />
         <item itemvalue="JavaScript Debug.about.html" />
       </list>
     </recent_temporary>
@@ -84,7 +83,7 @@
       <workItem from="1700511145202" duration="31782000" />
       <workItem from="1701114658039" duration="30268000" />
       <workItem from="1702320642792" duration="12416000" />
-      <workItem from="1702333109945" duration="4705000" />
+      <workItem from="1702333109945" duration="5072000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Push">
       <created>1700550198761</created>
@@ -135,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702337279607</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="CSS updates">
+      <created>1702337981083</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702337981083</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +164,7 @@
     <MESSAGE value="Updated images" />
     <MESSAGE value="Updated images and styling" />
     <MESSAGE value="mobile styling update" />
-    <option name="LAST_COMMIT_MESSAGE" value="mobile styling update" />
+    <MESSAGE value="CSS updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS updates" />
   </component>
 </project>
