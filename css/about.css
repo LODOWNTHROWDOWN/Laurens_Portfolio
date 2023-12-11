@@ -16,7 +16,8 @@
 }
 
 #head-image {
-    width: 500px;
+    width: 400px;
+    padding-right: 30px;
 }
 
 @media screen and (min-width: 769px) {

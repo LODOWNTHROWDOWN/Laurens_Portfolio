@@ -13,7 +13,7 @@
     width: 828px;
     height: 581px;
     margin: 0;
-    background-image: url("./images/custom_plastic_forming/Custom-Plastic-Forming-Website.png");
+    background-image: url("../images/custom_plastic_forming/Custom-Plastic-Forming-Website.png");
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat
@@ -56,7 +56,7 @@
 
 @media (max-width: 425px) {
     .wordpress-projects_visual {
-        bottom: -100px;
+        bottom: 50px;
         width: 392px;
         height: 275px
     }
@@ -84,7 +84,7 @@
     width: 828px;
     height: 581px;
     margin: 0;
-    background-image: url("./images/qc_dance/queen-city-dance-website.png");
+    background-image: url("../images/qc_dance/queen-city-dance-website.png");
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat
