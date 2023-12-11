@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf0891da-981f-4bbb-894c-d60ee2c3bd96" name="Changes" comment="Updated images">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/home.css" afterDir="false" />
+    <list default="true" id="cf0891da-981f-4bbb-894c-d60ee2c3bd96" name="Changes" comment="Updated images and styling">
+      <change beforePath="$PROJECT_DIR$/css/gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gallery.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +81,7 @@
       <workItem from="1700511145202" duration="31782000" />
       <workItem from="1701114658039" duration="30268000" />
       <workItem from="1702320642792" duration="12416000" />
-      <workItem from="1702333109945" duration="3285000" />
+      <workItem from="1702333109945" duration="3723000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Push">
       <created>1700550198761</created>
@@ -121,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702335339047</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated images and styling">
+      <created>1702336615669</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702336615669</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +146,7 @@
     <MESSAGE value="Initial Push" />
     <MESSAGE value="Update" />
     <MESSAGE value="Updated images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated images" />
+    <MESSAGE value="Updated images and styling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated images and styling" />
   </component>
 </project>

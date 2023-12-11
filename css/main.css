@@ -258,6 +258,12 @@ input, textarea {
     text-align: center
 }
 
+@media (max-width: 425px) {
+    .title {
+        font-size: 45px;
+    }
+}
+
 @keyframes fadeInOut {
     0% {
         opacity: 1
@@ -519,7 +525,7 @@ input, textarea {
 @media (max-width: 425px) {
 
     .introduction_content-description {
-        font-size: 50px;
+        font-size: 45px;
         text-shadow: 0 0 35px rgba(88, 88, 88, 0.43)
     }
 }

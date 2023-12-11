@@ -51,5 +51,9 @@ img {
     .gallery_heading {
         font-size: 32px
     }
+
+    .gallery-container {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
 }
 
