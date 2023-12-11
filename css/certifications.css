@@ -4,6 +4,13 @@
     padding: 60px 0;
 }
 
+.certifications-main-description {
+    font-weight: 700;
+    width: 80%;
+    margin: 0 auto 50px;
+    text-align: center;
+}
+
 .certification_wrapper {
     display: grid;
     grid-template-columns: auto auto auto;
@@ -50,6 +57,10 @@
         grid-template-columns: auto auto;
     }
 
+    .certifications_heading {
+        font-size: 48px
+    }
+
 }
 
 @media (max-width: 425px) {
@@ -63,5 +74,9 @@
 
     .certification_wrapper {
         grid-template-columns: auto;
+    }
+
+    .certifications_heading {
+        font-size: 32px
     }
 }
