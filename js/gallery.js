@@ -9,7 +9,7 @@ if (document.getElementById('custom-plastic-gallery-container') !== null) {
 }
 
 function buildGallery(galleryItems) {
-    const galleryList = galleryItems.map( galleryItem => {
+    const galleryList = galleryItems.map(galleryItem => {
         return `
                 <div class="gallery-image">
                     <p class="gallery-description">

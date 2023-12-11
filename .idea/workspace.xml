@@ -6,6 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="cf0891da-981f-4bbb-894c-d60ee2c3bd96" name="Changes" comment="Initial Push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/certifications.html" beforeDir="false" afterPath="$PROJECT_DIR$/certifications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/certifications.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/certifications.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/gallery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/technical-proficiencies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vueapp.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/vueapp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc-dance-gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/qc-dance-gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/sample-projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +90,7 @@
       <workItem from="1700511145202" duration="31782000" />
       <workItem from="1701114658039" duration="30268000" />
       <workItem from="1702320642792" duration="12416000" />
-      <workItem from="1702333109945" duration="667000" />
+      <workItem from="1702333109945" duration="1316000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Push">
       <created>1700550198761</created>
@@ -97,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702332729888</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial Push">
+      <created>1702334028066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702334028066</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,9 +1,8 @@
-
 const section = document.getElementById('certification_wrapper');
 section.innerHTML = buildCertifications(certifications);
 
 function buildCertifications(certifications) {
-    const certificationList = certifications.map( certification => {
+    const certificationList = certifications.map(certification => {
         return `
                 <div class="certification_post">
                         <div class="certification_post-heading">
