@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-<head onload="load()">
-    <title>Lauren Martin's Portfolio</title>
+<head>
+    <title>Custom Plastic Forming Gallery</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="css/stylesheet_home.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/gallery.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <script src="js/functions.js"></script>
+    <script src="js/main.js" defer></script>
+    <script src="models/data.js"></script>
+    <script src="js/gallery.js" defer></script>
 </head>
 <body>
 
@@ -18,149 +22,33 @@
 </div>
 <!-- END SECTION: Splashscreen -->
 
-<!-- SECTION: Intro -->
-<header class="header">
-    <!-- SECTION: Navigation -->
-    <div id="top" class="container">
-        <nav class="navbar">
-            <a href="index.html" class="nav-branding">LM</a>
-            <ul class="nav-menu">
-                <li class="nav-item">
-                    <a href="index.html" class="nav-link">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a href="about.html" class="nav-link">About</a>
-                </li>
-                <li class="nav-item">
-                    <a href="portfolio.html" class="nav-link">Portfolio</a>
-                </li>
-                <li class="nav-item">
-                    <a href="certifications.html" class="nav-link">Certifications</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#contact" class="nav-link">Contact</a>
-                </li>
-            </ul>
-            <div class="hamburger" onclick="navigation()">
-                <span class="bar"></span>
-                <span class="bar"></span>
-                <span class="bar"></span>
-            </div>
-        </nav>
-    </div>
-    <!-- END SECTION: Navigation -->
-    <div class="introduction">
+<header id="main-header" class="header"></header>
+<main>
+    <!-- SECTION: Intro -->
+    <section class="introduction">
         <h1 class="introduction_content-wrapper">
             <span class="introduction_content introduction_content-description">Custom Plastic Forming</span>
-            <span class="introduction_content introduction_content-job">Web Design & Development</span>
         </h1>
         <svg class="introduction_arrow" xmlns="http://www.w3.org/2000/svg" version="1.1" id="Layer_1" x="0" y="0" viewBox="0 0 130 65" xml:space="preserve" enable-background="new 0 0 130 65"><g transform="translate(0.000000,65.000000) scale(0.100000,-0.100000)"><path d="M22.2 634c-50-35-40-47 293-349 174-157 323-285 333-285 24 0 635 552 647 585 8 23 6 30-14 46 -13 10-31 19-40 19s-57-37-107-83c-50-45-179-162-287-260l-197-179 -147 134c-319 289-433 388-446 388C50.2 650 34.2 643 22.2 634z"/></g></svg>
-    </div>
-</header>
-<!-- END SECTION: Intro -->
-<main>
-<section>
-    <h2 class="gallery-heading title">Custom Plastic Forming</h2>
-    <p class="blurb_copy">This design is built on WordPress using the Divi theme. I designed each page myself and used CSS, HTML, and JavaScript when needed for customizations not available through the theme options. This 24 page website took months of planning and loads of customizations since the goal was to have the website draw users in to get them interested in learning more about the business. Please use the link below to view the full site. Though I no longer manage the site and I am not sure if anyone is maintaining it currently, it is almost exactly as it was when it was first built. I would recommend clicking the headings above any of the displayed gallery pages to see the pages full functionality as there are many interesting UI/UX customizations.</p>
-    <h3 class="gallery-heading"><a href="https://customplasticforming.com/">View Custom Plastic Forming Website</a></h3>
+    </section>
+    <!-- END SECTION: Intro -->
+
+    <section>
+    <h2 class="gallery-heading title">Custom Plastic Forming Wordpress Site</h2>
+    <p class="gallery-main-description">This design is built on WordPress using the Divi theme. I designed each page myself and used CSS, HTML, and JavaScript when needed for customizations not available through the theme options. This 24 page website took months of planning and loads of customizations since the goal was to have the website draw users in to get them interested in learning more about the business. Though I no longer manage the site and I am not sure if anyone is maintaining it currently, it is almost exactly as it was when it was first built. Each image is scrollable, but I would recommend clicking the headings above any of the displayed gallery pages to see the page's full functionality as there are many interesting UI/UX customizations.</p>
 </section>
 
 <!-- Grid -->
-<section class="gallery-container">
+<section id="custom-plastic-gallery-container" class="gallery-container"></section>
 
-    <div class="gallery-image">
-        <p class="gallery-description"><a href="https://customplasticforming.com/">Homepage</a></p>
-        <img src="assets/custom_plastic_forming/Custom-Plastic-Forming-homepage.png" alt="Custom Plastic Forming Dance Homepage" />
-    </div>
-    <div class="gallery-image">
-        <p class="gallery-description"><a href="https://customplasticforming.com/about-us/">About Us Page</a></p>
-        <img src="assets/custom_plastic_forming/custom-plastic-forming-about-us-page.png" alt="Custom Plastic Forming About Us Page">
-    </div>
-    <div class="gallery-image">
-        <p class="gallery-description"><a href="https://customplasticforming.com/thermoforming/">Thermoforming Page</a></p>
-        <img src="assets/custom_plastic_forming/custom-plastic-forming-thermoforming-page.png" alt="Custom Plastic Forming Thermoforming Page">
-    </div>
-    <div class="gallery-image">
-        <p class="gallery-description"><a href="https://customplasticforming.com/thermoforming/heavy-gauge/">Heavy Gauge Page</a></p>
-        <img src="assets/custom_plastic_forming/custom-plastic-forming-heavy-gauge-thermoforming-page.png" alt="Custom Plastic Forming Heavy Gauge Page">
-    </div>
-    <div class="gallery-image">
-        <p class="gallery-description"><a href="https://customplasticforming.com/thermoforming/thin-gauge/">Thin Gauge Page</a></p>
-        <img src="assets/custom_plastic_forming/custom-plastic-forming-thin-gauge-thermoforming-page.png" alt="Custom Plastic Forming Heavy Gauge Page">
-    </div>
-    <div class="gallery-image">
-        <p class="gallery-description"><a href="https://customplasticforming.com/in-house-capabilities/">Capabilities Page</a></p>
-        <img src="assets/custom_plastic_forming/custom-plastic-forming-in-house-capabilities-page.png" alt="Custom Plastic Forming Capabilities Page">
-    </div>
-    <div class="gallery-image">
-        <p class="gallery-description"><a href="https://customplasticforming.com/in-house-capabilities/3d-printing-prototyping/">3D Printing Page</a></p>
-        <img src="assets/custom_plastic_forming/custom-plastic-forming-3d-printing-page.png" alt="Custom Plastic Forming 3D Printing Page">
-    </div>
-    <div class="gallery-image">
-        <p class="gallery-description"><a href="https://customplasticforming.com/in-house-capabilities/custom-plastic-design-engineering/">Design & Engineering Page</a></p>
-        <img src="assets/custom_plastic_forming/custom-plastic-forming-design-engineering-page.png" alt="Custom Plastic Forming Design & Engineering Page">
-    </div>
-    <div class="gallery-image">
-        <p class="gallery-description"><a href="https://customplasticforming.com/in-house-capabilities/toolmaking/">Toolmaking Page</a></p>
-        <img src="assets/custom_plastic_forming/custom-plastic-forming-toolmaking.png" alt="Custom Plastic Forming Toolmaking Page">
-    </div>
-    <div class="gallery-image">
-        <p class="gallery-description"><a href="https://customplasticforming.com/value-added-services/">Services Page</a></p>
-        <img src="assets/custom_plastic_forming/custom-plastic-forming-services-page.png" alt="Custom Plastic Forming Services Page">
-    </div>
-    <div class="gallery-image">
-        <p class="gallery-description"><a href="https://customplasticforming.com/value-added-services/warehousing-logistics-shipping/">Logistics Page</a></p>
-        <img src="assets/custom_plastic_forming/custom-plastic-forming-logistics-page.png" alt="Custom Plastic Forming Logistics Page">
-    </div>
-    <div class="gallery-image">
-        <p class="gallery-description"><a href="https://customplasticforming.com/value-added-services/sustainability/">Sustainability Page</a></p>
-        <img src="assets/custom_plastic_forming/custom-plastic-forming-sustainability-page.png" alt="Custom Plastic Forming Sustainability">
-    </div>
-    <div class="gallery-image">
-        <p class="gallery-description"><a href="https://customplasticforming.com/thermoforming-equipment/">Equipment Page</a></p>
-        <img src="assets/custom_plastic_forming/custom-plastic-forming-equipment-page.png" alt="Custom Plastic Forming Equipment Page">
-    </div>
-    <div class="gallery-image">
-        <p class="gallery-description"><a href="https://customplasticforming.com/thermoforming-materials/">Materials Page</a></p>
-        <img src="assets/custom_plastic_forming/custom-plastic-forming-materials-page.png" alt="Custom Plastic Forming Materials Page">
-    </div>
-    <div class="gallery-image">
-        <p class="gallery-description"><a href="https://customplasticforming.com/industries-we-serve/">Industries Page</a></p>
-        <img src="assets/custom_plastic_forming/custom-plastic-forming-industries-page.png" alt="Custom Plastic Forming Industries Page">
-    </div>
-    <div class="gallery-image">
-        <p class="gallery-description"><a href="https://customplasticforming.com/careers/">Careers Page</a></p>
-        <img src="assets/custom_plastic_forming/custom-plastic-forming-careers-page.png" alt="Custom Plastic Forming Careers Page">
-    </div>
-</section>
 <!-- SECTION: Contact -->
-<section id="contact" class="contact">
-    <h2 class="contact-heading title">Contact Me</h2>
-    <div class="contact_wrapper wrapper-large">
-        <div class="contact_visual">
-            <img src="assets/contact-visual.png" alt="Lauren Martin's location">
-        </div>
-        <!-- Simple form setup: formspree.io -->
-        <form class="contact__form">
-            <input class="contact_form contact_form-name" type="text" placeholder="Your Name" spellcheck="false">
-            <input class="contact_form contact_form-email" type="email" placeholder="Your Email" spellcheck="false">
-            <textarea class="contact_form contact_form-message" placeholder="Your Message"></textarea>
-            <input class="contact_form contact_form-submit" type="submit" value="Send">
-        </form>
-    </div>
-</section>
+<section id="contact" class="contact"></section>
 <!-- END SECTION: Contact -->
+
 </main>
+
 <!-- SECTION: Footer -->
-<footer class="footer">
-    <div class="footer_wrapper wrapper-large">
-        <p class="footer_copyright no-margin">&copy; 2023 Lauren Martin</p>
-        <a class="footer_logo logo" href="index.html">LM</a>
-        <a class="footer_arrow" href="#top">
-            <svg class="footer_arrow-el" xmlns="http://www.w3.org/2000/svg" version="1.1" id="Layer_1" x="0" y="0" viewBox="0 0 130 65" xml:space="preserve" enable-background="new 0 0 130 65"><g transform="translate(0.000000,65.000000) scale(0.100000,-0.100000)"><path d="M315.4 365c-336-305-345-315-290-351 18-12 32-14 45-8 10 5 145 123 300 262l281 253 196-178c108-98 237-215 287-260 50-46 98-83 107-83s27 9 40 19c20 16 22 23 14 46 -12 33-623 585-647 585C638.4 650 489.4 522 315.4 365z"/></g></svg>
-        </a>
-    </div>
-</footer>
+<footer id="footer" class="footer"></footer>
 <!-- END SECTION: Footer -->
 </body>
 </html>

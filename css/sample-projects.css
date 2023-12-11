@@ -1,0 +1,144 @@
+/************************* Sample Projects *************************/
+
+.javascript-calculator_visual {
+    position: absolute;
+    top: 1000px;
+    left: 60%;
+    width: 500px;
+    height: 300px;
+    margin: 0;
+    background-image: url("/images/javascript_calculator.png");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    transform: perspective(1500px) rotateY(-15deg);
+    border-radius: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+    transition: transform 1s ease 0s;
+}
+
+.javascript-calculator_visual:hover {
+    transform: perspective(3000px) rotateY(-5deg);
+}
+
+.javascript-calculator {
+    padding: 200px 0;
+}
+
+.json-fetch {
+    position: relative;
+    width: 100%;
+    padding: 200px 0;
+    background-color: #fafafa;
+    overflow: hidden
+}
+
+.json-fetch_wrapper {
+    display: flex;
+    justify-content: flex-end
+}
+
+.json-fetch_visual {
+    position: absolute;
+    top: 50%;
+    right: 55%;
+    width: 500px;
+    height: 200px;
+    margin: 0;
+    background-image: url("/images/my_degrees.png");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    transform: perspective(1500px) rotateY(15deg) translateY(-45%);
+    border-radius: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+    transition: transform 1s ease 0s;
+}
+
+.json-fetch_visual:hover {
+    transform: perspective(3000px) rotateY(5deg) translateY(-45%);
+}
+
+@media (max-width: 991px) {
+    .javascript_calculator_content h2 {
+        font-size: 48px
+    }
+
+    .javascript-calculator_visual {
+        width: 741px;
+        height: 520px
+    }
+
+    .json-fetch_content h2 {
+        font-size: 48px
+    }
+
+    .json-fetch_visual {
+        right: 45%;
+        width: 741px;
+        height: 520px
+    }
+}
+
+@media (max-width: 768px) {
+    .javascript_calculator_content {
+        text-align: center
+    }
+
+    .javascript_calculator_content p {
+        margin: 0 auto 20px auto
+    }
+
+    .javascript-calculator_visual {
+        top: auto;
+        left: 50%;
+        bottom: 0px;
+        transform: translateX(-50%);
+        width: 523px;
+        height: 376px
+    }
+
+    .json-fetch {
+        height: 550px;
+        padding: 60px 0
+    }
+
+    .json-fetch_wrapper {
+        justify-content: center
+    }
+
+    .json-fetch_content {
+        text-align: center
+    }
+
+    .json-fetch_content p {
+        margin: 0 auto 20px auto
+    }
+
+    .json-fetch_visual {
+        top: auto;
+        right: auto;
+        left: 50%;
+        bottom: 0;
+        transform: translateX(-50%);
+        width: 523px;
+        height: 376px
+    }
+}
+
+@media (max-width: 425px) {
+    .wordpress-projects_visual {
+        bottom: -100px;
+        width: 392px;
+        height: 275px
+    }
+
+    .json-fetch {
+        height: 425px
+    }
+
+    .json-fetch_visual {
+        width: 392px;
+        height: 275px
+    }
+}

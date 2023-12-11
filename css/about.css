@@ -1,0 +1,102 @@
+
+.about {
+    width: 85%;
+    margin: 60px auto;
+    display: flex;
+}
+
+#technical-section {
+
+    width: 100%;
+}
+
+.about-heading {
+    width: 80%;
+    margin: 60px auto 0 auto;
+}
+
+#head-image {
+    width: 500px;
+}
+
+@media screen and (min-width: 769px) {
+
+    #about-section {
+        margin: 20px 0 50px 0;
+    }
+
+    #technical-proficiencies {
+        column-count: 5;
+        column-gap: 50px;
+    }
+
+    #technical-proficiencies li {
+        margin-bottom: 10px;
+    }
+
+    #technical-section {
+        display: flex;
+        flex-flow: row nowrap;
+    }
+}
+
+@media screen and (min-width: 426px) and (max-width: 768px) {
+
+    .about {
+        display: block;
+    }
+
+    #head-image {
+        margin-bottom: 30px;
+    }
+
+    .about-heading, .about-image, h2, p {
+        text-align: center;
+    }
+
+    #about-section {
+        margin: 20px 0 50px 0;
+    }
+
+    #technical-proficiencies {
+        column-count: 5;
+        column-gap: 30px;
+        padding: 0;
+        text-align: center;
+    }
+
+    #technical-proficiencies li {
+        margin-bottom: 10px;
+
+    }
+}
+
+@media only screen and (max-width: 425px) {
+
+    .about {
+        display: block;
+    }
+
+    #head-image {
+        margin-bottom: 30px;
+        width: 100%;
+    }
+
+    .about-heading, .about-image, h2, p {
+        text-align: center;
+    }
+
+    #about-section {
+        margin: 20px 0 50px 0;
+    }
+
+    #technical-proficiencies {
+        column-count: 2;
+        column-gap: 50px;
+        padding: 0;
+    }
+
+    #technical-proficiencies li {
+        margin-bottom: 10px;
+    }
+}

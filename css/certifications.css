@@ -1,0 +1,67 @@
+/************************* Certifications *************************/
+.certification {
+    position: relative;
+    padding: 60px 0;
+}
+
+.certification_wrapper {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 50px;
+    margin-bottom: 20px;
+}
+
+.certification_post-thumbnail {
+    width: 100%;
+    box-shadow: 5px 8px 30px 1px rgba(0, 0, 0, 0.21)
+}
+
+.certification_post-thumbnail img {
+    display: block;
+    width: 100%;
+}
+
+.certification_post-title {
+    text-align: center;
+    color: #585858;
+    font-size: 1vw;
+    font-weight: 800;
+}
+
+.certification_post-subtitle {
+    text-align: center;
+    color: #585858;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+@media (max-width: 768px) {
+
+
+    .certification_post-excerpt {
+        text-align: center
+    }
+
+    .certification_post-title {
+        font-size: 2vw;
+    }
+
+    .certification_wrapper {
+        grid-template-columns: auto auto;
+    }
+
+}
+
+@media (max-width: 425px) {
+    .certification_heading {
+        font-size: 32px
+    }
+
+    .certification_post-title {
+        font-size: 4vw;
+    }
+
+    .certification_wrapper {
+        grid-template-columns: auto;
+    }
+}

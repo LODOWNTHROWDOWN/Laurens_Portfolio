@@ -1,0 +1,143 @@
+/************************* Wordpress Projects *************************/
+.wordpress-projects {
+    position: relative;
+    width: 100%;
+    padding: 180px 0;
+    overflow: hidden
+}
+
+.wordpress-projects_visual {
+    position: absolute;
+    top: 50px;
+    left: 52%;
+    width: 828px;
+    height: 581px;
+    margin: 0;
+    background-image: url("/images/custom_plastic_forming/Custom-Plastic-Forming-Website.png");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat
+}
+
+@media (max-width: 991px) {
+    .wordpress-projects_content h2 {
+        font-size: 48px
+    }
+
+    .wordpress-projects_visual {
+        width: 741px;
+        height: 520px
+    }
+}
+
+@media (max-width: 768px) {
+    .wordpress-projects {
+        height: 550px;
+        padding: 60px 0
+    }
+
+    .wordpress-projects_content {
+        text-align: center
+    }
+
+    .wordpress-projects_content p {
+        margin: 0 auto 20px auto
+    }
+
+    .wordpress-projects_visual {
+        top: auto;
+        left: 50%;
+        bottom: 0px;
+        transform: translateX(-50%);
+        width: 523px;
+        height: 376px
+    }
+}
+
+@media (max-width: 425px) {
+    .wordpress-projects_visual {
+        bottom: -100px;
+        width: 392px;
+        height: 275px
+    }
+}
+
+/************************* Sample Projects *************************/
+.sample-projects {
+    position: relative;
+    width: 100%;
+    padding: 200px 0;
+    background-color: #fafafa;
+    overflow: hidden
+}
+
+.sample-projects_wrapper {
+    display: flex;
+    justify-content: flex-end
+}
+
+.sample-projects_visual {
+    position: absolute;
+    top: 50%;
+    right: 52%;
+    transform: translateY(-45%);
+    width: 828px;
+    height: 581px;
+    margin: 0;
+    background-image: url("/images/qc_dance/queen-city-dance-website.png");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat
+}
+
+@media (max-width: 991px) {
+    .sample-projects_content h2 {
+        font-size: 48px
+    }
+
+    .sample-projects_visual {
+        right: 45%;
+        width: 741px;
+        height: 520px
+    }
+}
+
+@media (max-width: 768px) {
+    .sample-projects {
+        height: 550px;
+        padding: 60px 0
+    }
+
+    .sample-projects_wrapper {
+        justify-content: center
+    }
+
+    .sample-projects_content {
+        text-align: center
+    }
+
+    .sample-projects_content p {
+        margin: 0 auto 20px auto
+    }
+
+    .sample-projects_visual {
+        top: auto;
+        right: auto;
+        left: 50%;
+        bottom: 0;
+        transform: translateX(-50%);
+        width: 523px;
+        height: 376px
+    }
+}
+
+@media (max-width: 425px) {
+    .sample-projects {
+        height: 425px
+    }
+
+    .sample-projects_visual {
+        width: 392px;
+        height: 275px
+    }
+}
