@@ -5,67 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf0891da-981f-4bbb-894c-d60ee2c3bd96" name="Changes" comment="Initial Push">
-      <change afterPath="$PROJECT_DIR$/css/certifications.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/sample-projects.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/LPM_HS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/javascript_calculator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/my_degrees.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/certifications.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/gallery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/technical-proficiencies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vueapp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/sendmail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample-projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/about-visual.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/about-visual.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/certifications/learn-angular-certificate.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/certifications/learn-angular-certificate.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/certifications/learn-asynchronous-programming-certificate.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/certifications/learn-asynchronous-programming-certificate.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/certifications/learn-intermediate-js-certificate.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/certifications/learn-intermediate-js-certificate.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/certifications/learn-js-certificate.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/certifications/learn-js-certificate.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/certifications/learn-php-certificate.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/certifications/learn-php-certificate.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/certifications/learn-vue.js-certificate.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/certifications/learn-vue.js-certificate.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/contact-visual.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/contact-visual.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/custom_plastic_forming/Custom-Plastic-Forming-Website.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/custom_plastic_forming/Custom-Plastic-Forming-Website.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/custom_plastic_forming/Custom-Plastic-Forming-homepage.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/custom_plastic_forming/Custom-Plastic-Forming-homepage.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-3d-printing-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/custom_plastic_forming/custom-plastic-forming-3d-printing-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-about-us-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/custom_plastic_forming/custom-plastic-forming-about-us-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-careers-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/custom_plastic_forming/custom-plastic-forming-careers-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-design-engineering-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/custom_plastic_forming/custom-plastic-forming-design-engineering-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-equipment-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/custom_plastic_forming/custom-plastic-forming-equipment-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-heavy-gauge-thermoforming-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/custom_plastic_forming/custom-plastic-forming-heavy-gauge-thermoforming-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-in-house-capabilities-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/custom_plastic_forming/custom-plastic-forming-in-house-capabilities-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-industries-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/custom_plastic_forming/custom-plastic-forming-industries-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-logistics-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/custom_plastic_forming/custom-plastic-forming-logistics-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-materials-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/custom_plastic_forming/custom-plastic-forming-materials-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-services-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/custom_plastic_forming/custom-plastic-forming-services-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-sustainability-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/custom_plastic_forming/custom-plastic-forming-sustainability-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-thermoforming-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/custom_plastic_forming/custom-plastic-forming-thermoforming-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-thin-gauge-thermoforming-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/custom_plastic_forming/custom-plastic-forming-thin-gauge-thermoforming-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/custom_plastic_forming/custom-plastic-forming-toolmaking.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/custom_plastic_forming/custom-plastic-forming-toolmaking.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/qc_dance/qc-dance-about-us-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/qc_dance/qc-dance-about-us-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/qc_dance/qc-dance-ballroom-dance-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/qc_dance/qc-dance-ballroom-dance-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/qc_dance/qc-dance-blog-post.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/qc_dance/qc-dance-blog-post.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/qc_dance/qc-dance-blog.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/qc_dance/qc-dance-blog.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/qc_dance/qc-dance-class-attire-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/qc_dance/qc-dance-class-attire-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/qc_dance/qc-dance-company-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/qc_dance/qc-dance-company-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/qc_dance/qc-dance-homepage.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/qc_dance/qc-dance-homepage.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/qc_dance/qc-dance-receptions-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/qc_dance/qc-dance-receptions-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/qc_dance/qc-dance-summer-camp-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/qc_dance/qc-dance-summer-camp-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/qc_dance/qc-dance-wedding-dance-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/qc_dance/qc-dance-wedding-dance-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/qc_dance/qc-dance-wedding-receptions-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/qc_dance/qc-dance-wedding-receptions-page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/qc_dance/qc-dance-youth-dance.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/qc_dance/qc-dance-youth-dance.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/qc_dance/queen-city-dance-website.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/qc_dance/queen-city-dance-website.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/certifications.html" beforeDir="false" afterPath="$PROJECT_DIR$/certifications.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/stylesheet_gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gallery.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/stylesheet_home.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom-plastic-forming-gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/custom-plastic-forming-gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qc-dance-gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/qc-dance-gallery.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/laurenmartin/IdeaProjects/Lauren_Portfolio/images",
+    "last_opened_file_path": "/Users/laurenmartin/IdeaProjects/Lauren_Portfolio",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -140,7 +80,8 @@
       <updated>1700511144092</updated>
       <workItem from="1700511145202" duration="31782000" />
       <workItem from="1701114658039" duration="30268000" />
-      <workItem from="1702320642792" duration="11740000" />
+      <workItem from="1702320642792" duration="12416000" />
+      <workItem from="1702333109945" duration="667000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Push">
       <created>1700550198761</created>
@@ -149,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700550198761</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Push">
+      <created>1702332729888</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702332729888</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
