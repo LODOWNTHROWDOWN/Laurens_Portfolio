@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf0891da-981f-4bbb-894c-d60ee2c3bd96" name="Changes" comment="CSS updates" />
+    <list default="true" id="cf0891da-981f-4bbb-894c-d60ee2c3bd96" name="Changes" comment="PHP fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +86,7 @@
       <workItem from="1700511145202" duration="31782000" />
       <workItem from="1701114658039" duration="30268000" />
       <workItem from="1702320642792" duration="12416000" />
-      <workItem from="1702333109945" duration="5072000" />
+      <workItem from="1702333109945" duration="5886000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Push">
       <created>1700550198761</created>
@@ -141,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702337981083</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="PHP fix">
+      <created>1702338594091</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702338594091</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +175,7 @@
     <MESSAGE value="Updated images and styling" />
     <MESSAGE value="mobile styling update" />
     <MESSAGE value="CSS updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS updates" />
+    <MESSAGE value="PHP fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="PHP fix" />
   </component>
 </project>
