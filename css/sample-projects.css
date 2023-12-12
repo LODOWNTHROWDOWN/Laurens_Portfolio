@@ -89,13 +89,17 @@
         margin: 0 auto 20px auto
     }
 
+    .javascript-calculator {
+        padding: 60px 0 300px 0;
+    }
+
     .javascript-calculator_visual {
-        top: auto;
+        top: 1050px;
         left: 50%;
         bottom: 0px;
         transform: translateX(-50%);
-        width: 523px;
-        height: 376px
+        width: 500px;
+        height: 200px
     }
 
     .json-fetch {
@@ -116,13 +120,13 @@
     }
 
     .json-fetch_visual {
-        top: auto;
+        top: 300px;
         right: auto;
         left: 50%;
         bottom: 0;
         transform: translateX(-50%);
-        width: 523px;
-        height: 376px
+        width: 500px;
+        height: 200px
     }
 }
 
@@ -138,7 +142,27 @@
     }
 
     .json-fetch_visual {
-        width: 392px;
-        height: 275px
+        width: 500px;
+        height: 200px
+    }
+
+    .javascript-calculator_visual {
+        top: 1100px;
+        width: 400px;
+        height: 200px
+    }
+
+    .javascript-calculator {
+        padding: 60px 0 300px 0;
+    }
+
+    .json-fetch_visual {
+        top: 300px;
+        right: auto;
+        left: 50%;
+        bottom: 0;
+        transform: translateX(-50%);
+        width: 400px;
+        height: 200px
     }
 }
