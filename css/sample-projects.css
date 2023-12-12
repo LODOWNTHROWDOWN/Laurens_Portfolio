@@ -7,7 +7,7 @@
     width: 500px;
     height: 300px;
     margin: 0;
-    background-image: url("/images/javascript_calculator.png");
+    background-image: url("../images/javascript_calculator.png");
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -45,7 +45,7 @@
     width: 500px;
     height: 200px;
     margin: 0;
-    background-image: url("/images/my_degrees.png");
+    background-image: url("../images/my_degrees.png");
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;

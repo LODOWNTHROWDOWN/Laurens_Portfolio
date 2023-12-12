@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf0891da-981f-4bbb-894c-d60ee2c3bd96" name="Changes" comment="Updated Formspree">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/sample-projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sample-projects.css" afterDir="false" />
+    <list default="true" id="cf0891da-981f-4bbb-894c-d60ee2c3bd96" name="Changes" comment="Updated mobile CSS for sample projects">
+      <change beforePath="$PROJECT_DIR$/sample-projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/sample-projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +85,7 @@
       <workItem from="1700511145202" duration="31782000" />
       <workItem from="1701114658039" duration="30268000" />
       <workItem from="1702320642792" duration="12416000" />
-      <workItem from="1702333109945" duration="8374000" />
+      <workItem from="1702333109945" duration="8679000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Push">
       <created>1700550198761</created>
@@ -165,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702339914463</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updated mobile CSS for sample projects">
+      <created>1702341842988</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1702341842988</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +198,7 @@
     <MESSAGE value="PHP fix" />
     <MESSAGE value="removed PHP in favor of formspree" />
     <MESSAGE value="Updated Formspree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Formspree" />
+    <MESSAGE value="Updated mobile CSS for sample projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated mobile CSS for sample projects" />
   </component>
 </project>
